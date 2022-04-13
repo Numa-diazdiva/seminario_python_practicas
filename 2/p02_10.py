@@ -31,4 +31,4 @@ for alumn in suma_notas:
         print(f"El alumn {alumn} obtuvo menor nota que el promedio ({suma_notas[alumn]})")
 
 
-#print(lista[0][1:-2])
+
